@@ -13,6 +13,7 @@
 		577316C526369C1E00D98BC8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 577316C326369C1E00D98BC8 /* Main.storyboard */; };
 		577316C726369C2200D98BC8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 577316C626369C2200D98BC8 /* Assets.xcassets */; };
 		577316CA26369C2200D98BC8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 577316C826369C2200D98BC8 /* LaunchScreen.storyboard */; };
+		578AF1552638B18900E65846 /* diceRoll.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 578AF1542638B18900E65846 /* diceRoll.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		577316C626369C2200D98BC8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		577316C926369C2200D98BC8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		577316CB26369C2200D98BC8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		578AF1542638B18900E65846 /* diceRoll.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = diceRoll.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		577316BC26369C1E00D98BC8 /* Dice */ = {
 			isa = PBXGroup;
 			children = (
+				578AF1542638B18900E65846 /* diceRoll.mp3 */,
 				577316BD26369C1E00D98BC8 /* AppDelegate.swift */,
 				577316BF26369C1E00D98BC8 /* SceneDelegate.swift */,
 				577316C126369C1E00D98BC8 /* ViewController.swift */,
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				578AF1552638B18900E65846 /* diceRoll.mp3 in Resources */,
 				577316CA26369C2200D98BC8 /* LaunchScreen.storyboard in Resources */,
 				577316C726369C2200D98BC8 /* Assets.xcassets in Resources */,
 				577316C526369C1E00D98BC8 /* Main.storyboard in Resources */,
